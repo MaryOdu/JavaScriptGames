@@ -1,0 +1,23 @@
+h1.green{
+    font-style: italic;
+    font-size: large;
+    color: blue;
+    background-color: lightblue;
+
+
+}
+
+h1{
+    color: pink;
+}
+
+a:link, a:visited{
+    background-color: aquamarine;
+
+
+}
+
+a:hover, a:active{
+    background-color: pink;
+
+}
