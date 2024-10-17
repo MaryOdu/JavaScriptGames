@@ -1,4 +1,6 @@
-var faces =[6];
+let faces =[6];
+
+
 function preload(){
     faces[0] = new Image(); faces[0].scr="assets/dice-1.png";
     faces[1] = new Image(); faces[1].scr="assets/dice-2.png";
